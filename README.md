@@ -1,6 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi visitor🤚, I'm Mayank Modi</h1>
+<h3 align="center">A fullstack developer by passion from India 👨‍💻</h3>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47ujc54q9dy1k5izfg93dzafmtjjm1llbp74yiipoy&rid=giphy.gif&ct=g">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mykiiii&label=Profile%20views&color=0e75b6&style=flat" alt="mykiiii" /> </p>
+
+- 📡 I’m currently working with **Quarkus & Spring Boot ⭐**
+
+- 📝 Get to know more about me on [LinkedIn](https://www.linkedin.com/in/mykiiii/)
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mykiiii)
 **Mykiiii/Mykiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
