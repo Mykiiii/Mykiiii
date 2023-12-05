@@ -5,8 +5,7 @@
 
 - 📡 I’m currently working with **Quarkus & Spring Boot ⭐**
 
-- 📝 Get to know more about me on [LinkedIn](https://www.linkedin.com/in/mykiiii/)
-
+- 📝 Get to know more about me on
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mykiiii)
 **Mykiiii/Mykiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
